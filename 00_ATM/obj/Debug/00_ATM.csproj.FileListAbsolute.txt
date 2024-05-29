@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104(.NET)\00_ATM\bin\Debug\_00_ATM.exe.config
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104(.NET)\00_ATM\bin\Debug\_00_ATM.exe
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104(.NET)\00_ATM\bin\Debug\_00_ATM.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104(.NET)\00_ATM\obj\Debug\00_ATM.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104(.NET)\00_ATM\obj\Debug\00_ATM.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104(.NET)\00_ATM\obj\Debug\_00_ATM.exe
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104(.NET)\00_ATM\obj\Debug\_00_ATM.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\00_ATM\bin\Debug\_00_ATM.exe.config
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\00_ATM\bin\Debug\_00_ATM.exe
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\00_ATM\bin\Debug\_00_ATM.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\00_ATM\obj\Debug\00_ATM.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\00_ATM\obj\Debug\00_ATM.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\00_ATM\obj\Debug\_00_ATM.exe
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\00_ATM\obj\Debug\_00_ATM.pdb
