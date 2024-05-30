@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\bin\Debug\net6.0\AccessSpecifiers.exe
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\bin\Debug\net6.0\AccessSpecifiers.deps.json
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\bin\Debug\net6.0\AccessSpecifiers.runtimeconfig.json
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\bin\Debug\net6.0\AccessSpecifiers.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\bin\Debug\net6.0\AccessSpecifiers.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\AccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\AccessSpecifiers.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\AccessSpecifiers.AssemblyInfo.cs
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\AccessSpecifiers.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\refint\AccessSpecifiers.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\AccessSpecifiers.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\AccessSpecifiers.genruntimeconfig.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\AccessSpecifiers\obj\Debug\net6.0\ref\AccessSpecifiers.dll
