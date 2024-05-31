@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\bin\Debug\net6.0\CSharp_Features.exe
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\bin\Debug\net6.0\CSharp_Features.deps.json
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\bin\Debug\net6.0\CSharp_Features.runtimeconfig.json
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\bin\Debug\net6.0\CSharp_Features.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\bin\Debug\net6.0\CSharp_Features.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\CSharp_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\CSharp_Features.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\CSharp_Features.AssemblyInfo.cs
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\CSharp_Features.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\CSharp_Features.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\refint\CSharp_Features.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\CSharp_Features.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\CSharp_Features.genruntimeconfig.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\CSharp_Features\obj\Debug\net6.0\ref\CSharp_Features.dll
