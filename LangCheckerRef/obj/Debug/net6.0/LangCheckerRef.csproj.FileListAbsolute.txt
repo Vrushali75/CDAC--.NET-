@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\bin\Debug\net6.0\LangCheckerRef.exe
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\bin\Debug\net6.0\LangCheckerRef.deps.json
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\bin\Debug\net6.0\LangCheckerRef.runtimeconfig.json
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\bin\Debug\net6.0\LangCheckerRef.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\bin\Debug\net6.0\LangCheckerRef.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\LangCheckerRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\LangCheckerRef.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\LangCheckerRef.AssemblyInfo.cs
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\LangCheckerRef.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\LangCheckerRef.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\refint\LangCheckerRef.dll
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\LangCheckerRef.pdb
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\LangCheckerRef.genruntimeconfig.cache
+C:\Users\IET\Desktop\240345920103_104\.NET\103_104_DOTNET\LangCheckerRef\obj\Debug\net6.0\ref\LangCheckerRef.dll
